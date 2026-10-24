@@ -1,4 +1,4 @@
-# CS457-Mini-Group-Project
+# CS456-Mini-Group-Project
 
 ## Contributions
 - Scott Hendren:
