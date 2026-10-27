@@ -3,6 +3,7 @@
 
 **Scott Hendren:**
 - Finished Monitor.py to keep track of heartbeats and alert when the service script crashes
+- Wrote responses to the PDF write up
 
 **Caleb Gillis:**
 -
