@@ -5,9 +5,13 @@
 - Diagram
 
 **Scott Hendren:**
-- Finished Monitor.py to keep track of heartbeats and alert when the service script crashes
-- Tested Monitor.py with service.py
-- Wrote responses to the PDF write up
+- Finished Monitor.py to keep track of heartbeats and alert when the service script crashes (Pt1)
+- Tested Monitor.py with service.py (Pt1)
+- Wrote responses to the PDF write up (Pt1)
+- Updated Monitor.py to meet Part 2 requirements (Pt2)
+- Tested Monitor.py with new versions of the other files (Pt2)
+- Wrote responses to the PDF write up (Pt2)
+- Merged Pt1 PDF and Pt2 PDF into 1 file
 
 **Caleb Gillis:**
 - Finished attacker.py script
