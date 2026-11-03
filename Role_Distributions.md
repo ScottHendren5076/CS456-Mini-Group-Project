@@ -1,8 +1,10 @@
 **Tyler Harvey:**
-- Recorded Demo Video
+- Recorded Demo Video Part 1
 - Additional testing
 - Documentations for script functionality
-- Diagram
+- Diagram showing fault detection and recovery
+- Added client.py script
+- Wrote responces for PDF write up
 
 **Scott Hendren:**
 - Finished Monitor.py to keep track of heartbeats and alert when the service script crashes (Pt1)
