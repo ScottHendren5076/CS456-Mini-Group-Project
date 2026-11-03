@@ -2,6 +2,7 @@
 - Recorded Demo Video
 - Additional testing
 - Documentations for script functionality
+- Diagram
 
 **Scott Hendren:**
 - Finished Monitor.py to keep track of heartbeats and alert when the service script crashes
