@@ -18,3 +18,6 @@
 - Finished service script
 - Tested service.py
 - Wrote responses to the PDF write up
+- Created Checkpoint script for part 2
+- Updated Service script for part 2
+- Created video for part 2
