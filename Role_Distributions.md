@@ -18,6 +18,9 @@
 **Caleb Gillis:**
 - Finished attacker.py script
 - Tested attacker.py
+- Wrote responses for Adversarial Audit
+- Added HMAC validation to the checkpoint module to block Caleb’s tamper and forgery attacks.
+- Implemented process fencing in the monitor to prevent zombie nodes and split-brain states.
 
 **Odin Rhode:**
 - Created Service script
